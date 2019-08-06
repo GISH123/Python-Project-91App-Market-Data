@@ -1,8 +1,8 @@
 # Python-Project-91App-Market-Data
 for 91App data(mostly feature engineering)  
-有點亂，簡單來說就是處理2.X GB的顧客資料(Relational data)  
-我實在沒什麼時間整理這個專案做了些什麼，約80~90%的時間都在處理raw data  
-有興趣看PPT吧
+處理2.X GB的顧客資料(Relational data)，預測顧客群遷徙路徑
+約80~90%的時間都在處理raw data  
+想要知道大概做什麼，歡迎看PPT檔案
 
 關於技術的部份我整理一份word檔了，歡迎直接下載來看
 
