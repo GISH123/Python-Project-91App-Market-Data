@@ -8,6 +8,6 @@ for 91App data(mostly feature engineering)
 
 
 If you are interested to know the big picture of what we are doing, please read the PowerPoint file first.  
-For more technical description, the Word file does an overall explaination of what we do.
+For more technical description, the Word file does an overall explaination of what we do.  
 If you have any suggestions or questions, feel free to contact me via willyshao514@gmail.com  
 Thank you very much!
