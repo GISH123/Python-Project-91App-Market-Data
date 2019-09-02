@@ -1,6 +1,6 @@
 # If you want an overall understanding, please refer to the powerpoint and docx file.
 大數據-期末報告-final.pptx  
-
+大數據商業分析期末報告第3組.docx  
 
 for 91App data(mostly feature engineering)  
 處理2.X GB的顧客資料(Relational data)，預測顧客群遷徙路徑
